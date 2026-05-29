@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hanoi_tower.vcxproj" Id="8c6e8242-a5e2-4887-b6d8-e7ded59c8d83" />
+</Solution>

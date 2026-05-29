@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="class13.vcxproj" Id="149be02c-bc0f-4653-9b40-ffbd29d20757" />
+  <Project Path="zadacha2/zadacha2.vcxproj" Id="9c05d031-85aa-47ad-b1dc-1373aa6998b3" />
+  <Project Path="zadacha3/zadacha3.vcxproj" Id="2a7e0bb5-f7b6-4df2-b66c-37d7d0d1b9a2" />
+</Solution>

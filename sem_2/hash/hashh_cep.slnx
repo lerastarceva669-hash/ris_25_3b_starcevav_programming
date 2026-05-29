@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hashh_cep.vcxproj" Id="fb8f0633-0032-45e5-9499-8eb0dcdb8982" />
+</Solution>
