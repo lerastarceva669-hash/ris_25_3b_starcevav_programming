@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fibonachi_.vcxproj" Id="5b0c16f2-b81d-47f8-98b4-3bc31f18f384" />
+</Solution>

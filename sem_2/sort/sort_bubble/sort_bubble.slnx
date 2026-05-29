@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sort_bubble.vcxproj" Id="4c20fbf3-cb9b-48ca-9410-fb99f654023d" />
+</Solution>

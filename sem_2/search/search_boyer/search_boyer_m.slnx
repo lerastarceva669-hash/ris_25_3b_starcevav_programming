@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="search_boyer_m.vcxproj" Id="9befef93-435f-42b1-802e-a20420b9c37a" />
+</Solution>

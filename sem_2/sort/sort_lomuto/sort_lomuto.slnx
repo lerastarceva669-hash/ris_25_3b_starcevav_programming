@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sort_lomuto.vcxproj" Id="1deae649-934e-440c-8689-9e952c068721" />
+</Solution>

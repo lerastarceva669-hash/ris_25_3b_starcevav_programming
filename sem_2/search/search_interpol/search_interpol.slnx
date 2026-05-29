@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="search_interpol.vcxproj" Id="9b9a20b0-e23c-4650-aa9d-e2445773ac0b" />
+</Solution>

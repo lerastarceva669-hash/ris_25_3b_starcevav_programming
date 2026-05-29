@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sum_str_massiv.vcxproj" Id="54a4a642-f3bd-4e9b-b5a5-a0ae856b7188" />
+</Solution>
